@@ -119,3 +119,13 @@ lorem@csbs-HP-Elite-Tower-600-G9-Desktop-PC:~$ hdfs dfs -ls /folder
 
 - ----------
 - stop-all.sh
+
+
+============= EX 3 ===============
+
+- start-dfs.sh
+- start-yarn.sh
+- jps
+
+
+
